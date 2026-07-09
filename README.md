@@ -3,7 +3,8 @@
 Developed an interactive Power BI solution to monitor and analyze shrimp farming performance across multiple ponds and sectors. The dashboard provides real-time visibility into key aquaculture KPIs and supports data-driven decision-making for farm operations.
 
 ### ETL & Data Modeling
--**Performed ETL**: processes using **Power Query** to clean, transform, and standardize raw data imported into **Power BI**.
+-**ETL Tools**: Performed ETL processes using **Power Query** to clean, transform, and standardize raw data imported into **Power BI**.
+
 -**Data Model**:Designed and implemented a **Star Schema** data model to optimize relationships, improve query performance, and enable efficient reporting and analytics.
 
 ### 📊 Key Features:
