@@ -7,7 +7,7 @@ Performed **ETL** processes using **Power Query** to clean, transform, and stand
 Designed and implemented a **Star Schema** data model to optimize relationships, improve query performance, and enable efficient reporting and analytics.
 
 ### 📊 Key Features:
-Executive overview of **ABW**, **Biomass**, **FCR**,** Survival rate**, and **Feed consumption**
+Executive overview of **ABW**, **Biomass**, **FCR**,**Survival rate**, and **Feed consumption**
 Pond-level performance tracking vs target benchmarks
 Biomass vs Feed correlation analysis for efficiency monitoring
 Weekly growth trends and production forecasting
